@@ -1,0 +1,27 @@
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:0:lex_empty.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:0:lex_empty is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:0:lex_empty.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:2:lex_one_plus_two.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:2:lex_one_plus_two is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:2:lex_one_plus_two.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:4:long_lexer_1.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:4:long_lexer_1 is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:4:long_lexer_1.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:6:long_lexer_3.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:6:long_lexer_3 is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:6:long_lexer_3.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:8:parse_one.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:8:parse_one is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:8:parse_one.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:10:parse_one_times_two.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:10:parse_one_times_two is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:10:parse_one_times_two.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:12:long_parser_2.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:12:long_parser_2 is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:12:long_parser_2.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:14:long_parser_4.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:14:long_parser_4 is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:14:long_parser_4.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:16:parentheses.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:16:parentheses is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:16:parentheses.

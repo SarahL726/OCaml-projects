@@ -1,0 +1,24 @@
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:1:lex_one.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:1:lex_one is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:1:lex_one.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:3:lex_one_times_two.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:3:lex_one_times_two is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:3:lex_one_times_two.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:5:long_lexer_2.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:5:long_lexer_2 is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:5:long_lexer_2.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:7:long_lexer_4.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:7:long_lexer_4 is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:7:long_lexer_4.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:9:parse_one_plus_two.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:9:parse_one_plus_two is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:9:parse_one_plus_two.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:11:long_parser_1.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:11:long_parser_1 is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:11:long_parser_1.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:13:long_parser_3.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:13:long_parser_3 is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:13:long_parser_3.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:15:right_associative.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:15:right_associative is successful.
+2020-11-03T23:31:53+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:15:right_associative.
