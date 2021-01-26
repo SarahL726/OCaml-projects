@@ -1,0 +1,42 @@
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:0:public_expr_basic.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:0:public_expr_basic is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:0:public_expr_basic.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:2:public_expr_fail.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:2:public_expr_fail is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:2:public_expr_fail.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:6:public_define_2.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:6:public_define_2 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:6:public_define_2.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:7:public_assign_1.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:7:public_assign_1 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:7:public_assign_1.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:10:public_notequal.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:10:public_notequal is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:10:public_notequal.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:11:public_equal.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:11:public_equal is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:11:public_equal.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:14:public_exp_2.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:14:public_exp_2 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:14:public_exp_2.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:15:public_exp_3.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:15:public_exp_3 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:15:public_exp_3.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:17:public_if_else_while.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:17:public_if_else_while is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:17:public_if_else_while.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:19:public_for.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:19:public_for is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:19:public_for.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:22:public_main.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:22:public_main is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:22:public_main.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:23:public_test_1.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:23:public_test_1 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:23:public_test_1.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:25:public_test_3.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:25:public_test_3 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:25:public_test_3.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Start test public:27:public_stmt_fail_control.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: Test public:27:public_stmt_fail_control is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#01 I: End test public:27:public_stmt_fail_control.

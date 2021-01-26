@@ -1,0 +1,42 @@
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:1:public_expr_ops.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:1:public_expr_ops is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:1:public_expr_ops.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:3:public_stmt_basic.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:3:public_stmt_basic is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:3:public_stmt_basic.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:4:public_stmt_control.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:4:public_stmt_control is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:4:public_stmt_control.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:5:public_define_1.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:5:public_define_1 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:5:public_define_1.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:8:public_assign_2.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:8:public_assign_2 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:8:public_assign_2.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:9:public_assign_exp.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:9:public_assign_exp is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:9:public_assign_exp.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:12:public_less.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:12:public_less is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:12:public_less.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:13:public_exp_1.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:13:public_exp_1 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:13:public_exp_1.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:16:public_ifelse.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:16:public_ifelse is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:16:public_ifelse.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:18:public_while.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:18:public_while is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:18:public_while.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:20:public_nested_ifelse.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:20:public_nested_ifelse is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:20:public_nested_ifelse.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:21:public_nested_while.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:21:public_nested_while is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:21:public_nested_while.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:24:public_test_2.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:24:public_test_2 is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:24:public_test_2.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Start test public:26:public_stmt_fail_basic.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: Test public:26:public_stmt_fail_basic is successful.
+2020-11-16T23:11:33+00:00 Sarahs-MacBook-Pro.local#02 I: End test public:26:public_stmt_fail_basic.
